@@ -12,7 +12,8 @@ Lien vers l'App Heroku
 [Gossip Project - Heroku](https://secure-spire-49089.herokuapp.com)<br/>
 Lien vers l'App Heroku
 
-[Gossip Project - GitHub](https://secure-spire-49089.herokuapp.com)<br/>
+[Gossip Project - GitHub](https://github.com/QUB-SPG/CRUD-gossip)<br/>
+Lien vers repo GitHub
 
 
 ## Pré-requis
